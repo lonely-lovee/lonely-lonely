@@ -1,9 +1,11 @@
-> how nice how nice,
+
+<p style="text-align:center;">lonely lonely club!</p>
+
+<p style="text-align:center;"><img width="512" height="512" alt="unnamed (5)" src="https://github.com/user-attachments/assets/297331ea-9be3-4fb0-971a-753219f26076"></p>
 
 
-   ![lonely-club-hatsune-miku](https://github.com/user-attachments/assets/5529d551-7dee-401c-8e80-407c52c5f807)
 
-> our lovely club is! 
+
 
 
 
